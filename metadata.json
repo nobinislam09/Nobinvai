@@ -1,0 +1,6 @@
+{
+  "name": "Signal & Craft",
+  "description": "An independent technology publication focused on long-form essays on software architecture, AI tooling, hardware craft, and engineering guides.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
